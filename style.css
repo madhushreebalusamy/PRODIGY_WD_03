@@ -1,6 +1,7 @@
 body {  
     font-family: 'Poppins', sans-serif;
     color: #000000;
+    background-color: #e2c3c3;
 }
 
 h1 {
@@ -29,7 +30,7 @@ h1 {
 }
 
 .square:hover {
-    background-color: #FFFFE0;
+    background-color: #f3a2a2;
 }
 
 #restartButton {
